@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Paw Ubuntu
+Description=Ubuntu theme based on Paw theme
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Plymount_PAW_Ubuntu
+ScriptFile=/lib/plymouth/themes/Plymount_PAW_Ubuntu/paw-ubuntu.script
+
+
